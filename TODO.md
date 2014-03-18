@@ -1,6 +1,9 @@
 TODO
 ====
 
+* CMP: CF, ZF, SF, OF
+* SETE with REX-prefix
+* MOVZX EAX, AL
 * array operation
 * SIMD
 * gccvalue (equivalent)
